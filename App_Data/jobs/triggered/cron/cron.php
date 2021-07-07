@@ -27,7 +27,7 @@
  * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
-include "bootstrap.php";
+include "../../../../bootstrap.php";
 
 use Espo\Core\{
     Application,
